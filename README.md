@@ -1,1 +1,3 @@
-[<img src="https://media.licdn.com/dms/image/D5603AQFx1iAj3YguAA/profile-displayphoto-shrink_800_800/0/1672482303950?e=1686787200&v=beta&t=PVhIbW0jEj5j9mabeuLhR5LCEymOHg6DMVwOlzJ3AwM height="240" >]
+<p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
