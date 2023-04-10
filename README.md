@@ -10,6 +10,10 @@
   <h3 align="center">Mobile Developer</h3>
 </p>
 
+<a href="https://www.github.com/mgoktas"> 
+<img src="https://badgen.net/badge/github/mgoktas/gray" width="120" height="30" />
+</a>
+
 <a href=""> 
 <img src="https://badgen.net/badge/Email/mgoktashk/red" width="130" height="30" />
 </a>
