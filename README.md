@@ -10,4 +10,6 @@
   <h3 align="center">Mobile Developer</h3>
 </p>
 
-https://badgen.net/github/stars/vercel/next.js
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![my badge](https://badgen.net/badge/linkedin/mgoktas20/blue?icon=twitter)
+
