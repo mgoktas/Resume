@@ -10,4 +10,4 @@
   <h3 align="center">Mobile Developer</h3>
 </p>
 
-!\[my badge\](https://badgen.net/badge/linkedin/mgoktas20/red?icon=linkedin)
+https://badgen.net/github/stars/vercel/next.js
