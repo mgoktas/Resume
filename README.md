@@ -1,9 +1,4 @@
-# Resume
-Muhammet Goktas's Portfolio
-![image](https://user-images.githubusercontent.com/103164878/230834728-0025c4b2-aeda-46e7-9c05-13d9c7ee6cd2.png)
 
-[<div>
-<img src='https://user-images.githubusercontent.com/103164878/230834728-0025c4b2-aeda-46e7-9c05-13d9c7ee6cd2.png' height='240' style="border-radius:'300px'"></div>]
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
