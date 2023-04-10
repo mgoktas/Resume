@@ -9,3 +9,5 @@
 <p align="center">
   <h3 align="center">Mobile Developer</h3>
 </p>
+
+https://badgen.net/badge/:subject/:status/:color?icon=github
