@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <h2>Muhmamet Goktas</h2>
+  <h2 align="center">Muhammet Goktas</h2>
 </p>
 
