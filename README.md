@@ -10,6 +10,15 @@
   <h3 align="center">Mobile Developer</h3>
 </p>
 
+<p align="center">
+  <h4 align="center">About Me</h3>
+</p>
+<p align="center">
+  <h6 align="center">
+I am someone passionate about creating user-friendly, fast mobile apps. Aside, I do like to spend my day with a lot of music-including activities such as walking, coding(!) etc. I came to Hong Kong in 2022. However, later my passion routed me in this direction and I decided to become a mobile developer. Thanks!!
+</h6>
+</p>
+
 <div align="center">
 <a href="https://www.github.com/mgoktas"> 
 <img src="https://badgen.net/badge/github/mgoktas/gray" width="120" height="30" />
