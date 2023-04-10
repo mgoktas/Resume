@@ -10,6 +10,7 @@
   <h3 align="center">Mobile Developer</h3>
 </p>
 
+<div align="center">
 <a href="https://www.github.com/mgoktas"> 
 <img src="https://badgen.net/badge/github/mgoktas/gray" width="120" height="30" />
 </a>
@@ -25,5 +26,6 @@
 <a href="https://www.linkedin.com/in/mgoktas20"> 
 <img src="https://badgen.net/badge/linkedin/mgoktas20/blue?icon=linkedin" width="150" height="30" />
 </a >
+</div>
   
   
