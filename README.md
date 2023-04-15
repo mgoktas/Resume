@@ -44,7 +44,7 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 </p>
 
 <p align="center">
-  <img width="80" src="https://i.ibb.co/yyLvJvj/Component-1.png" >
+  <img width="120" src="https://i.ibb.co/yyLvJvj/Component-1.png" >
 </p>
 
 <h4 align="center">How Much Days?</h4>
