@@ -57,3 +57,15 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
    <img width="200" src="https://i.ibb.co/VVGjfVY/PHONE-1.png">
 </p>
   
+  
+<div align="center">
+<a target=”_blank” href="https://www.github.com/mgoktas"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" width="150" height="45" />
+</a>
+
+  
+<a target=”_blank” href="https://www.linkedin.com/in/mgoktas20"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" width="150" height="45" />
+</a >
+</div>
+
