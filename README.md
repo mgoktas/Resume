@@ -47,7 +47,9 @@ https://drive.google.com/file/d/183QbJQN3qqyPw2Bvu8vqgp8FEbfMnI8K/view?usp=shari
 
 
 <p align="center">
-  <img width="200" height="200" src="https://drive.google.com/file/d/183QbJQN3qqyPw2Bvu8vqgp8FEbfMnI8K/view?usp=sharing
-">
+  <img width="200" src="https://i.ibb.co/0QnB2C7/PHONE-2.jpg">
+  <img width="200" src="https://i.ibb.co/1qsrytk/PHONE-9.jpg">
+  <img width="200" src="https://i.ibb.co/6nGZ2vR/PHONE.jpg">
+ 
 </p>
   
