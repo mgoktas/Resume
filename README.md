@@ -46,8 +46,10 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 
 
 <p align="center">
-   <img width="200" style="margin: 20" src="https://i.ibb.co/0QnB2C7/PHONE-2.jpg">
-  <img width="200" src="https://i.ibb.co/1qsrytk/PHONE-9.jpg">
-  <img width="200" src="https://i.ibb.co/6nGZ2vR/PHONE.jpg">
+   <img width="200" style="margin: 20" src="https://i.ibb.co/61QCBvP/PHONE-2.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="200" src="https://i.ibb.co/dWGR157/PHONE.png">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="200" src="https://i.ibb.co/VVGjfVY/PHONE-1.png">
 </p>
   
