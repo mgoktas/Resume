@@ -43,7 +43,11 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
   <h2 align="center">Personal Projects</h2>
 </p>
 
+<p align="center">
+  <img width="80" src="https://i.ibb.co/yyLvJvj/Component-1.png" >
+</p>
 
+<h4 align="center">How Much Days?</h4>
 
 <p align="center">
    <img width="200" style="margin: 20" src="https://i.ibb.co/61QCBvP/PHONE-2.png">
