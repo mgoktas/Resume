@@ -54,7 +54,7 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img width="200" src="https://i.ibb.co/dWGR157/PHONE.png">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="200" src="https://i.ibb.co/VVGjfVY/PHONE-1.png">
+   <img width="200" src="https://i.ibb.co/rwxypBh/PHONE-3.png">
 </p>
   
   
