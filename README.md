@@ -37,7 +37,6 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 </a >
 </div>
 
-<hr>
 
 <p align="center">
   <h2 align="center">Personal Projects</h2>
