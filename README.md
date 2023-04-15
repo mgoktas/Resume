@@ -43,13 +43,11 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
   <h2 align="center">Personal Projects</h2>
 </p>
 
-https://drive.google.com/file/d/183QbJQN3qqyPw2Bvu8vqgp8FEbfMnI8K/view?usp=sharing
 
 
 <p align="center">
-  <img width="200" src="https://i.ibb.co/0QnB2C7/PHONE-2.jpg">
+   <img width="200" style="margin: 20" src="https://i.ibb.co/0QnB2C7/PHONE-2.jpg">
   <img width="200" src="https://i.ibb.co/1qsrytk/PHONE-9.jpg">
   <img width="200" src="https://i.ibb.co/6nGZ2vR/PHONE.jpg">
- 
 </p>
   
