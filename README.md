@@ -59,7 +59,7 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
   
 <div align="center">
 <a target=”_blank” href="https://apps.apple.com/us/app/how-much-days/id6447752303"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" width="150" height="45" />
+<img target=”_blank”  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png" width="150" height="45" />
 </a>
 
   
