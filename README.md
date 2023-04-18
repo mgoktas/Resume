@@ -46,7 +46,9 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
   <img width="120" src="https://i.ibb.co/yyLvJvj/Component-1.png" >
 </p>
 
-<h4 align="center">How Much Days?</h4>
+<p align="center">
+  <h4 align="center">How Much Days?</h4>
+</p>
 
 <p align="center">
    <img width="200" style="margin: 20" src="https://i.ibb.co/61QCBvP/PHONE-2.png">
@@ -67,6 +69,10 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" width="150" height="45" />
 </a >
 </div>
+
+- Explore best places to visit
+* Save your future travel plans
++ See how much long or less you would expect to live(according to expected lifespan at birth)
 
 <p>
   <h2></h2>
@@ -97,3 +103,7 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" width="150" height="45" />
 </a >
 </div>
+
+-Create QR codes 
+-Stick to your key item
+-Find your lost items easily
