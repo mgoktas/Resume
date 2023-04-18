@@ -104,6 +104,6 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 </a >
 </div>
 
--Create QR codes 
-*Stick to your key item
-+Find your lost items easily
+- Create QR codes 
+* Stick to your key item
++ Find your lost items easily
