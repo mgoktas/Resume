@@ -28,7 +28,7 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 <img src="https://badgen.net/badge/Email/mgoktashk/red" width="130" height="30" />
 </a>
 
-<a target=”_blank” href="https://onedrive.live.com/edit.aspx?action=editnew&resid=1BC23527E38ADBF9!2119&ithint=file%2cdocx&action=editnew&ct=1677694302561&wdTpl=TM33410318&wdlcid=1033&wdNewAndOpenCt=1677694302561&wdPreviousSession=e75128e0-2f65-48c9-bec1-8d89ad59be5c&wdOrigin=OFFICECOM-WEB.MAIN.TEMPLATES"> 
+<a target=”_blank” href="https://1drv.ms/b/s!AvnbiuMnNcIbkGHuMbDXnlnuwaKB?e=cPnRnL"> 
 <img src="https://badgen.net/badge/Resume/PDF/green" width="100" height="30" />
 </a>
   
