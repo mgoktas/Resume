@@ -99,7 +99,7 @@ I am someone passionate about creating user-friendly, fast mobile apps. Aside, I
 </a>
 
   
-<a target=”_blank” href="https://www.github.com/mgoktas"> 
+<a target=”_blank” href="https://play.google.com/store/apps/details?id=com.qrtallytest&pli=1"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" width="150" height="45" />
 </a >
 </div>
